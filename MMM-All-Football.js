@@ -4,7 +4,7 @@ Module.register("MMM-All-Football", {
     leagues: ["PL"],
     showTables: true,
     showTopScorers: false,
-    displayTime: 30 * 1000,
+    displayTime: 60 * 1000,
     width: 0,
     apiKey: "",
   },
